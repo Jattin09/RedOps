@@ -221,3 +221,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# RedOps project exclusions
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+reports/
